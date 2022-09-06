@@ -3,6 +3,6 @@ from .views import index, test
 
 
 urlpatterns = [
-    path('', index),
+    path('ikvict07.github.io/', index),
     path('test/', test)
 ]
